@@ -12,7 +12,7 @@
 
 ## 相关链接
 - [Bilibili 官网](https://www.bilibili.com)
-- [GitHub 项目地址]([https://github.com/qinuan01/bilibili/])
+- [GitHub 项目地址](https://github.com/qinuan01/bilibili/)
 
 欢迎 Star 支持项目！
 
