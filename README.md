@@ -5,11 +5,6 @@
 - 简洁易用 - 只需提供视频链接即可。
 - 自定义解析 - 支持多种解析方式。
 
-## 交流群
-欢迎加入我们的 B 站视频获取交流群，一起交流学习！
-
-tg: @novoline0616 交流群：1036511655
-
 ## 相关链接
 - [Bilibili 官网](https://www.bilibili.com)
 - [GitHub 项目地址](https://github.com/qinuan01/bilibili/)
